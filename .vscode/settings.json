@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "streambuf": "cpp"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }"
+}
